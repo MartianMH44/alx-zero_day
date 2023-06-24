@@ -1,1 +1,1 @@
-My first readme
+I am learning at my pace
